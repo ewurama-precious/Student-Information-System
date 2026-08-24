@@ -21,8 +21,8 @@ print ("Programme:      " + student_programme)
 print ("Level:          " + student_level)
 print ("Age:       " + student_age)
 print ("Favourite Language:        "+ favourite_language)
-print ("Generated Username:        " + student_name + student_ID)
-print ("Generated Email:            " + student_name + student_ID + "@st.ug.edu.gh")
+print ("Generated Username:        " + student_name[:3] + student_ID)
+print ("Generated Email:            " + student_name[:3] + student_ID + "@st.ug.edu.gh")
 
 part_1 = " =========="
 part_2 =" ==========="
