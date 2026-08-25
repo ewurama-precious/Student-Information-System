@@ -10,9 +10,10 @@ part_1 = " =========="
 part_2 =" ==========="
 part_3 = "==========="
 part_4 = "==========="
+part_5 = "==========="
 print(part_1 + part_2 + part_3 + part_4)
-print(          "STUDENT INFORMATION SYSTEM"     )
-print(part_1 + part_2 + part_3 + part_4)
+print(              "STUDENT INFORMATION SYSTEM"     )
+print(part_1 + part_2 + part_3 + part_4 + part_5)
 print()
 
 
@@ -20,14 +21,15 @@ print ("Full Name:      " + student_name)
 print ("Student ID:     " + student_ID)
 print ("Programme:      " + student_programme)
 print ("Level:          " + student_level)
-print ("Age:       " + student_age)
+print ("Age:            " + student_age)
 print ("Favourite Language:        "+ favourite_language)
 print ("Generated Username:        " + student_name[:3] + student_ID)
-print ("Generated Email:            " + student_name[:3] + student_ID + "@st.ug.edu.gh")
+print ("Generated Email:           " + student_name[:3] + student_ID + "@st.ug.edu.gh")
 print()
 
 part_1 = " =========="
 part_2 =" ==========="
 part_3 = "==========="
 part_4 = "==========="
-print(part_1 + part_2 + part_3 + part_4)
+part_5 ="============="
+print(part_1 + part_2 + part_3 + part_4 + part_5)
